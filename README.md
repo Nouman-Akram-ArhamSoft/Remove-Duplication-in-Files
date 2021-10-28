@@ -3,7 +3,7 @@
 # Duplicate Files Remover in a Directory
 
 This Assignment for remove the Duplication in Files
-We have to enter the path of file in which we have to remove the duplciation
+We have to enter the path of file in which we have to remove the duplication
 After the Input of File Directory we can use the following methods:-
 
   #### directory_item_list
